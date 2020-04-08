@@ -1,2 +1,1 @@
-# CollegeBusManagementSystem
-This is simple project which contain two mobile applications for updating live details of buses and for telecasting the live updates.
+DriverApp is handlesd by drivers in each buses.They can install this App in their or separate mobile phones.They can turn on the button in the app to enable UserApp to access the details of bus.Driver can view their current location also and can telcast the status of bus in case of any breakdown or delay in reaching.
